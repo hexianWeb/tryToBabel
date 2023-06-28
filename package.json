@@ -1,0 +1,30 @@
+{
+  "name": "trytobabel",
+  "version": "0.1.0",
+  "description": "尝试 babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hexianWeb/tryToBabel.git"
+  },
+  "keywords": [],
+  "author": "hexian <hexianweb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hexianWeb/tryToBabel/issues"
+  },
+  "homepage": "https://github.com/hexianWeb/tryToBabel#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.5",
+    "@babel/core": "^7.22.5",
+    "@babel/generator": "^7.22.5",
+    "@babel/parser": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/template": "^7.22.5",
+    "@babel/traverse": "^7.22.5",
+    "@babel/types": "^7.22.5"
+  }
+}

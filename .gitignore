@@ -1,0 +1,30 @@
+# 忽略 Node.js 模块目录
+node_modules/
+
+# 忽略生成的构建目录
+build/
+dist/
+out/
+.history/
+
+# 忽略开发过程中生成的临时文件
+*.log
+*.pid
+*.pid.lock
+
+# 忽略配置文件
+config.js
+.env
+
+# 忽略编辑器和集成开发环境（IDE）相关的文件和目录
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 忽略测试覆盖率报告
+coverage/
+
+# 忽略某些特定文件
+secret.txt
+database.db
